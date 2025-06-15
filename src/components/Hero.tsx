@@ -6,7 +6,7 @@ export const Hero = () => {
     <section className="relative w-full h-[60vh] md:h-[80vh]">
       <div className="absolute inset-0 bg-black/50 z-10" />
       <img
-        src="/placeholder.svg"
+        src="https://placehold.co/1920x1080/333333/FFFFFF?text=Sabor+Divino"
         alt="Interior acogedor del restaurante Sabor Divino"
         className="absolute inset-0 w-full h-full object-cover"
       />
