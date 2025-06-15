@@ -6,7 +6,7 @@ export const Hero = () => {
     <section className="relative w-full h-[60vh] md:h-[80vh]">
       <div className="absolute inset-0 bg-black/50 z-10" />
       <img
-        src="/photo-1721322800607-8c38375eef04.avif"
+        src="/photo-1555396273-367ea4eb4db5.avif"
         alt="Interior acogedor del restaurante Sabor Divino"
         className="absolute inset-0 w-full h-full object-cover"
       />
